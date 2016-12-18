@@ -10,6 +10,7 @@ In general, the students felt that:
 - We should have cut anything non-essential and just taught exactly what we needed to get Project 1 done
 - Whiteboarding was fun, but scary
 - Pre-work was too difficult, and they wanted more support while doing it
+- They would have liked more modeling and instructors running through solutions
 
 And here are the ideas from Project 1 Retro:
 
