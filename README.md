@@ -40,6 +40,8 @@ And here are the ideas from Project 2 Retro:
 
 In general, the students felt that:
 
+We only spend about an hour each on passport and satellizer, but they're project requirements - it would be nice to reuse those components again and again on other labs leading up to the projects, cause right now they feel like they don't understand them enough to use them in projects.
+
 ## Unit 4
 
 In general, the students felt that:
