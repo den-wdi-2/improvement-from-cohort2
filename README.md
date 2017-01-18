@@ -28,6 +28,8 @@ In general, the students felt that:
 - We should have introduced APIs at the end of the unit so we don't get them confused by two different types of requests, at the least we should have separated those ideas with enough time
 - Project 2 week was too short
 
+There may be room here for non-technical lightning talks, to get devs used to teaching.  It will build empathy and public speaking, as well as confidence that they know a lot about things.
+
 And here are the ideas from Project 2 Retro:
 
 ![](proj2_1.jpg)
@@ -45,3 +47,5 @@ We only spend about an hour each on passport and satellizer, but they're project
 ## Unit 4
 
 In general, the students felt that:
+
+- Tutorials are hard.  Yes, they are.  I think a good exercise would be to have them try to write a tutorial.  Something really small, but to get their head around how hard it is, and that the tutorial community is not just a bunch of freebies that should be perfectly written, but rather a lot of hard-working people trying to share their knowledge.
