@@ -11,6 +11,9 @@ In general, the students felt that:
 - Whiteboarding was fun, but scary
 - Pre-work was too difficult, and they wanted more support while doing it
 - They would have liked more modeling and instructors running through solutions
+- It would be useful for all labs and lessons to specify
+  - The thing we built
+  - What technology they learned
 
 And here are the ideas from Project 1 Retro:
 
