@@ -31,6 +31,7 @@ In general, the students felt that:
 - We should have introduced, visually, at a high level, the path we were going to take through this unit
 - We should have introduced APIs at the end of the unit so we don't get them confused by two different types of requests, at the least we should have separated those ideas with enough time
 - Project 2 week was too short
+- We never got to edit/update, and we should enforce that line once
 
 There may be room here for non-technical lightning talks, to get devs used to teaching.  It will build empathy and public speaking, as well as confidence that they know a lot about things.
 
