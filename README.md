@@ -14,6 +14,7 @@ In general, the students felt that:
 - It would be useful for all labs and lessons to specify
   - The thing we built
   - What technology they learned
+- We should have a couple projects that, at least thematically, or content-wise are the same...like build the Tunely front-end Unit 1
 
 And here are the ideas from Project 1 Retro:
 
